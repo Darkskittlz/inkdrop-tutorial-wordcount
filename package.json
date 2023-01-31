@@ -1,5 +1,5 @@
 {
-  "name": "wordcount-tutorial",
+  "name": "wordcount-ctrl-o",
   "main": "./lib/wordcount",
   "version": "0.1.0",
   "description": "InkDrop Wordcount Plugin tutorial",
