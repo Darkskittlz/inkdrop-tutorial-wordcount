@@ -1,7 +1,7 @@
 {
   "name": "wordcount-tutorial",
   "main": "./lib/wordcount",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "InkDrop Wordcount Plugin tutorial",
   "keywords": [],
   "repository": "https://github.com/Darkskittlz/inkdrop-tutorial-wordcount",
